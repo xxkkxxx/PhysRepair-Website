@@ -1,0 +1,1530 @@
+{
+  "cases": [
+    {
+      "id": "2video",
+      "title": "Kick & collision",
+      "category": "Contact",
+      "prompt": "A kicked soccer ball collides with a blue ball.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/2video/minmaxh3.mp4",
+          "poster": "assets/posters/2video/minmaxh3.webp",
+          "duration": 7.2917,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/2video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/2video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/2video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/2video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/2video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/2video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/2video/VLIPP.mp4",
+          "poster": "assets/posters/2video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/2video/PhyCo.mp4",
+          "poster": "assets/posters/2video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/2video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/2video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/2video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/2video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/2video/Ours.mp4",
+          "poster": "assets/posters/2video/Ours.webp",
+          "duration": 7.2917,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/2video/minmaxh3.webp"
+    },
+    {
+      "id": "3video",
+      "title": "Goalkeeper save",
+      "category": "Contact",
+      "prompt": "A goalkeeper dives to catch a kicked soccer ball.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/3video/minmaxh3.mp4",
+          "poster": "assets/posters/3video/minmaxh3.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/3video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/3video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/3video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/3video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/3video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/3video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/3video/VLIPP.mp4",
+          "poster": "assets/posters/3video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/3video/PhyCo.mp4",
+          "poster": "assets/posters/3video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/3video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/3video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/3video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/3video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/3video/Ours.mp4",
+          "poster": "assets/posters/3video/Ours.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/3video/minmaxh3.webp"
+    },
+    {
+      "id": "1video",
+      "title": "Cue-ball collision",
+      "category": "Contact",
+      "prompt": "A cue ball strikes a stationary red ball.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/1video/minmaxh3.mp4",
+          "poster": "assets/posters/1video/minmaxh3.webp",
+          "duration": 5.1667,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/1video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/1video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/1video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/1video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/1video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/1video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/1video/VLIPP.mp4",
+          "poster": "assets/posters/1video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/1video/PhyCo.mp4",
+          "poster": "assets/posters/1video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/1video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/1video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/1video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/1video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/1video/Ours.mp4",
+          "poster": "assets/posters/1video/Ours.webp",
+          "duration": 5.1667,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/1video/minmaxh3.webp"
+    },
+    {
+      "id": "4video",
+      "title": "Ball enters water",
+      "category": "Fluids",
+      "prompt": "A plastic ball falls into an aquarium and splashes.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/4video/minmaxh3.mp4",
+          "poster": "assets/posters/4video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/4video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/4video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/4video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/4video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/4video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/4video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/4video/VLIPP.mp4",
+          "poster": "assets/posters/4video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/4video/PhyCo.mp4",
+          "poster": "assets/posters/4video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/4video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/4video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/4video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/4video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/4video/Ours.mp4",
+          "poster": "assets/posters/4video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/4video/minmaxh3.webp"
+    },
+    {
+      "id": "10video",
+      "title": "Water & balance beam",
+      "category": "Fluids",
+      "prompt": "Water poured into a cup tips a balance beam.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/10video/minmaxh3.mp4",
+          "poster": "assets/posters/10video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/10video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/10video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/10video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/10video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/10video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/10video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/10video/VLIPP.mp4",
+          "poster": "assets/posters/10video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/10video/PhyCo.mp4",
+          "poster": "assets/posters/10video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/10video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/10video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/10video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/10video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/10video/Ours.mp4",
+          "poster": "assets/posters/10video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/10video/minmaxh3.webp",
+      "hidden": true
+    },
+    {
+      "id": "bvideo",
+      "title": "Water & balance beam",
+      "category": "Fluids",
+      "prompt": "Water fills a suspended cup and tips a balance beam.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/bvideo/minmaxh3.mp4",
+          "poster": "assets/posters/bvideo/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/bvideo/CogVideoX-5B.mp4",
+          "poster": "assets/posters/bvideo/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/bvideo/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/bvideo/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/bvideo/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/bvideo/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/bvideo/VLIPP.mp4",
+          "poster": "assets/posters/bvideo/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/bvideo/PhyCo.mp4",
+          "poster": "assets/posters/bvideo/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/bvideo/Cosmos3-Super.mp4",
+          "poster": "assets/posters/bvideo/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/bvideo/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/bvideo/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/bvideo/Ours.mp4",
+          "poster": "assets/posters/bvideo/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/bvideo/minmaxh3.webp"
+    },
+    {
+      "id": "13video",
+      "title": "Weighted toy fish",
+      "category": "Fluids",
+      "prompt": "A weighted toy fish falls from a net into water.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/13video/minmaxh3.mp4",
+          "poster": "assets/posters/13video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/13video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/13video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/13video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/13video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/13video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/13video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/13video/VLIPP.mp4",
+          "poster": "assets/posters/13video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/13video/PhyCo.mp4",
+          "poster": "assets/posters/13video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/13video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/13video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/13video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/13video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/13video/Ours.mp4",
+          "poster": "assets/posters/13video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/13video/minmaxh3.webp"
+    },
+    {
+      "id": "avideo",
+      "title": "Wrench & metal box",
+      "category": "Contact",
+      "prompt": "A wrench falls into a metal box and rebounds.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/avideo/minmaxh3.mp4",
+          "poster": "assets/posters/avideo/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/avideo/CogVideoX-5B.mp4",
+          "poster": "assets/posters/avideo/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/avideo/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/avideo/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/avideo/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/avideo/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/avideo/VLIPP.mp4",
+          "poster": "assets/posters/avideo/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/avideo/PhyCo.mp4",
+          "poster": "assets/posters/avideo/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/avideo/Cosmos3-Super.mp4",
+          "poster": "assets/posters/avideo/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/avideo/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/avideo/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/avideo/Ours.mp4",
+          "poster": "assets/posters/avideo/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/avideo/minmaxh3.webp"
+    },
+    {
+      "id": "wind_fan_sw08_cotton_sleeves_s01",
+      "title": "Cotton in the airflow",
+      "category": "Soft bodies",
+      "prompt": "An oscillating fan blows across hanging cotton garments.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/minmaxh3.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/minmaxh3.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/CogVideoX-5B.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/VLIPP.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/PhyCo.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/Cosmos3-Super.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/MAGI-1_4.5B.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/MAGI-1_4.5B.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "VLIPP_newcase": {
+          "label": "VLIPP · motion plan",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/VLIPP_newcase.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/VLIPP_newcase.webp",
+          "duration": 3.0625,
+          "fps": 16.0
+        },
+        "PhyCo_newcase": {
+          "label": "PhyCo · alternate VAE",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/PhyCo_newcase.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/PhyCo_newcase.webp",
+          "duration": 4.875,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/Ours.mp4",
+          "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/Ours.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/minmaxh3.webp"
+    },
+    {
+      "id": "wind_fan_sw11_simple_three_materials_s02",
+      "title": "Three fabric materials",
+      "category": "Soft bodies",
+      "prompt": "A fan blows across a scarf, a cotton shirt and denim shorts.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/minmaxh3.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/minmaxh3.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/CogVideoX-5B.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/VLIPP.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/PhyCo.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/Cosmos3-Super.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/MAGI-1_4.5B.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/MAGI-1_4.5B.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "VLIPP_newcase": {
+          "label": "VLIPP · motion plan",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/VLIPP_newcase.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/VLIPP_newcase.webp",
+          "duration": 3.0625,
+          "fps": 16.0
+        },
+        "PhyCo_newcase": {
+          "label": "PhyCo · alternate VAE",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/PhyCo_newcase.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/PhyCo_newcase.webp",
+          "duration": 4.875,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/Ours.mp4",
+          "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/Ours.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/minmaxh3.webp"
+    },
+    {
+      "id": "wind_fan_w09_attic_single_corner_s01",
+      "title": "Attic laundry",
+      "category": "Soft bodies",
+      "prompt": "A fan sweeps across garments suspended in an attic.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/minmaxh3.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/minmaxh3.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/CogVideoX-5B.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/VLIPP.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/PhyCo.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/Cosmos3-Super.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/MAGI-1_4.5B.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/MAGI-1_4.5B.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "VLIPP_newcase": {
+          "label": "VLIPP · motion plan",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/VLIPP_newcase.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/VLIPP_newcase.webp",
+          "duration": 3.0625,
+          "fps": 16.0
+        },
+        "PhyCo_newcase": {
+          "label": "PhyCo · alternate VAE",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/PhyCo_newcase.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/PhyCo_newcase.webp",
+          "duration": 4.875,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/Ours.mp4",
+          "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/Ours.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/minmaxh3.webp"
+    },
+    {
+      "id": "9video",
+      "title": "Loaded cart & stop",
+      "category": "Contact",
+      "prompt": "A loaded cart hits a stop, sending its cargo forward.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/9video/minmaxh3.mp4",
+          "poster": "assets/posters/9video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/9video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/9video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/9video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/9video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/9video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/9video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/9video/VLIPP.mp4",
+          "poster": "assets/posters/9video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/9video/PhyCo.mp4",
+          "poster": "assets/posters/9video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/9video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/9video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/9video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/9video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/9video/Ours.mp4",
+          "poster": "assets/posters/9video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/9video/minmaxh3.webp"
+    },
+    {
+      "id": "12video",
+      "title": "Falling tray & cups",
+      "category": "Contact",
+      "prompt": "Six cups tumble from a falling tray.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/12video/Original_PPT_Version.mp4",
+          "poster": "assets/posters/12video/Original_PPT_Version.webp",
+          "duration": 8.0,
+          "fps": 24.0,
+          "source_version": "Original_PPT_Version"
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/12video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/12video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/12video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/12video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/12video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/12video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/12video/VLIPP.mp4",
+          "poster": "assets/posters/12video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/12video/PhyCo.mp4",
+          "poster": "assets/posters/12video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/12video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/12video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/12video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/12video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/12video/Ours.mp4",
+          "poster": "assets/posters/12video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/12video/Original_PPT_Version.webp"
+    },
+    {
+      "id": "11video",
+      "title": "Contact chain",
+      "category": "Contact",
+      "prompt": "A steel ball strikes wooden blocks in a chain reaction.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/11video/minmaxh3.mp4",
+          "poster": "assets/posters/11video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/11video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/11video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/11video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/11video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/11video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/11video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/11video/VLIPP.mp4",
+          "poster": "assets/posters/11video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/11video/PhyCo.mp4",
+          "poster": "assets/posters/11video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/11video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/11video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/11video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/11video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/11video/Ours.mp4",
+          "poster": "assets/posters/11video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/11video/minmaxh3.webp"
+    },
+    {
+      "id": "8_video",
+      "title": "Balls & woven basket",
+      "category": "Contact",
+      "prompt": "Wooden balls fall onto a woven basket lid.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/8_video/Original_PPT_Version.mp4",
+          "poster": "assets/posters/8_video/Original_PPT_Version.webp",
+          "duration": 8.0,
+          "fps": 24.0,
+          "source_version": "Original_PPT_Version"
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/8_video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/8_video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/8_video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/8_video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/8_video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/8_video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/8_video/VLIPP.mp4",
+          "poster": "assets/posters/8_video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/8_video/PhyCo.mp4",
+          "poster": "assets/posters/8_video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/8_video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/8_video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/8_video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/8_video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/8_video/Ours.mp4",
+          "poster": "assets/posters/8_video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/8_video/Original_PPT_Version.webp"
+    },
+    {
+      "id": "7video",
+      "title": "Ball & narrow vase",
+      "category": "Contact",
+      "prompt": "A red ball falls into a narrow-necked glass vase.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/7video/minmaxh3.mp4",
+          "poster": "assets/posters/7video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/7video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/7video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/7video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/7video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/7video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/7video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/7video/VLIPP.mp4",
+          "poster": "assets/posters/7video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/7video/PhyCo.mp4",
+          "poster": "assets/posters/7video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/7video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/7video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/7video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/7video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/7video/Ours.mp4",
+          "poster": "assets/posters/7video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/7video/minmaxh3.webp",
+      "hidden": true
+    },
+    {
+      "id": "6video",
+      "title": "Dumbbell & rubber mat",
+      "category": "Soft bodies",
+      "prompt": "A dumbbell falls onto a rubber mat and settles.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/6video/minmaxh3.mp4",
+          "poster": "assets/posters/6video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/6video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/6video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/6video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/6video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/6video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/6video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/6video/VLIPP.mp4",
+          "poster": "assets/posters/6video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/6video/PhyCo.mp4",
+          "poster": "assets/posters/6video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/6video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/6video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/6video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/6video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/6video/Ours.mp4",
+          "poster": "assets/posters/6video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/6video/minmaxh3.webp"
+    },
+    {
+      "id": "5video",
+      "title": "Sphere & glass lid",
+      "category": "Contact",
+      "prompt": "A brass ball falls onto a closed glass display case.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/5video/minmaxh3.mp4",
+          "poster": "assets/posters/5video/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "CogVideoX-5B": {
+          "label": "CogVideoX-5B",
+          "src": "assets/videos/5video/CogVideoX-5B.mp4",
+          "poster": "assets/posters/5video/CogVideoX-5B.webp",
+          "duration": 6.125,
+          "fps": 8.0
+        },
+        "HunyuanVideo-1.5": {
+          "label": "HunyuanVideo-1.5",
+          "src": "assets/videos/5video/HunyuanVideo-1.5.mp4",
+          "poster": "assets/posters/5video/HunyuanVideo-1.5.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "Wan2.2_TI2V-5B": {
+          "label": "Wan2.2 TI2V-5B",
+          "src": "assets/videos/5video/Wan2.2_TI2V-5B.mp4",
+          "poster": "assets/posters/5video/Wan2.2_TI2V-5B.webp",
+          "duration": 5.0417,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/5video/VLIPP.mp4",
+          "poster": "assets/posters/5video/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/5video/PhyCo.mp4",
+          "poster": "assets/posters/5video/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/5video/Cosmos3-Super.mp4",
+          "poster": "assets/posters/5video/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        },
+        "MAGI-1_4.5B_PPT": {
+          "label": "MAGI-1 4.5B",
+          "src": "assets/videos/5video/MAGI-1_4.5B_PPT.mp4",
+          "poster": "assets/posters/5video/MAGI-1_4.5B_PPT.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "label": "PhysRepair (Ours)",
+          "src": "assets/videos/5video/Ours.mp4",
+          "poster": "assets/posters/5video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/5video/minmaxh3.webp"
+    },
+    {
+      "id": "cvideo",
+      "title": "Water & balance beam",
+      "category": "Fluids",
+      "prompt": "Water poured into a cup tips a balance beam.",
+      "methods": {
+        "minmaxh3": {
+          "label": "MiniMax H3",
+          "src": "assets/videos/cvideo/minmaxh3.mp4",
+          "poster": "assets/posters/cvideo/minmaxh3.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "VLIPP": {
+          "label": "VLIPP",
+          "src": "assets/videos/cvideo/VLIPP.mp4",
+          "poster": "assets/posters/cvideo/VLIPP.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "PhyCo": {
+          "label": "PhyCo",
+          "src": "assets/videos/cvideo/PhyCo.mp4",
+          "poster": "assets/posters/cvideo/PhyCo.webp",
+          "duration": 5.0,
+          "fps": 24.0
+        },
+        "Cosmos3-Super": {
+          "label": "Cosmos 3 Super",
+          "src": "assets/videos/cvideo/Cosmos3-Super.mp4",
+          "poster": "assets/posters/cvideo/Cosmos3-Super.webp",
+          "duration": 7.875,
+          "fps": 24.0
+        }
+      },
+      "poster": "assets/posters/cvideo/minmaxh3.webp",
+      "hidden": true
+    }
+  ],
+  "ablations": [
+    {
+      "id": "3video",
+      "title": "Goalkeeper save",
+      "prompt": "A goalkeeper dives to catch a kicked soccer ball.",
+      "videos": {
+        "Original": {
+          "src": "assets/videos/ablation/3video/Original.mp4",
+          "poster": "assets/posters/ablation/3video/Original.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "Intermediate": {
+          "src": "assets/videos/ablation/3video/Intermediate.mp4",
+          "poster": "assets/posters/ablation/3video/Intermediate.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        },
+        "Ours": {
+          "src": "assets/videos/ablation/3video/Ours.mp4",
+          "poster": "assets/posters/ablation/3video/Ours.webp",
+          "duration": 10.125,
+          "fps": 24.0
+        }
+      },
+      "causal": true
+    },
+    {
+      "id": "2video",
+      "title": "Kick & collision",
+      "prompt": "A kicked soccer ball collides with a blue ball.",
+      "videos": {
+        "Original": {
+          "src": "assets/videos/ablation/2video/Original.mp4",
+          "poster": "assets/posters/ablation/2video/Original.webp",
+          "duration": 7.2917,
+          "fps": 24.0
+        },
+        "Intermediate": {
+          "src": "assets/videos/ablation/2video/Intermediate.mp4",
+          "poster": "assets/posters/ablation/2video/Intermediate.webp",
+          "duration": 7.2917,
+          "fps": 24.0
+        },
+        "Ours": {
+          "src": "assets/videos/ablation/2video/Ours.mp4",
+          "poster": "assets/posters/ablation/2video/Ours.webp",
+          "duration": 7.2917,
+          "fps": 24.0
+        }
+      },
+      "causal": true
+    },
+    {
+      "id": "avideo",
+      "title": "Wrench & metal box",
+      "prompt": "A wrench falls into a metal box and rebounds.",
+      "videos": {
+        "Original": {
+          "src": "assets/videos/ablation/avideo/Original.mp4",
+          "poster": "assets/posters/ablation/avideo/Original.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Intermediate": {
+          "src": "assets/videos/ablation/avideo/Intermediate.mp4",
+          "poster": "assets/posters/ablation/avideo/Intermediate.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "src": "assets/videos/ablation/avideo/Ours.mp4",
+          "poster": "assets/posters/ablation/avideo/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "causal": false
+    },
+    {
+      "id": "4video",
+      "title": "Ball enters water",
+      "prompt": "A plastic ball falls into an aquarium and splashes.",
+      "videos": {
+        "Original": {
+          "src": "assets/videos/ablation/4video/Original.mp4",
+          "poster": "assets/posters/ablation/4video/Original.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Intermediate": {
+          "src": "assets/videos/ablation/4video/Intermediate.mp4",
+          "poster": "assets/posters/ablation/4video/Intermediate.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "src": "assets/videos/ablation/4video/Ours.mp4",
+          "poster": "assets/posters/ablation/4video/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "causal": false
+    },
+    {
+      "id": "bvideo",
+      "title": "Water & balance beam",
+      "prompt": "Water fills a suspended cup and tips a balance beam.",
+      "videos": {
+        "Original": {
+          "src": "assets/videos/ablation/bvideo/Original.mp4",
+          "poster": "assets/posters/ablation/bvideo/Original.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Ours": {
+          "src": "assets/videos/ablation/bvideo/Ours.mp4",
+          "poster": "assets/posters/ablation/bvideo/Ours.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        },
+        "Intermediate": {
+          "src": "assets/videos/ablation/bvideo/Intermediate.mp4",
+          "poster": "assets/posters/ablation/bvideo/Intermediate.webp",
+          "duration": 8.0,
+          "fps": 24.0
+        }
+      },
+      "causal": false
+    }
+  ],
+  "method_order": [
+    "minmaxh3",
+    "CogVideoX-5B",
+    "HunyuanVideo-1.5",
+    "Wan2.2_TI2V-5B",
+    "VLIPP",
+    "PhyCo",
+    "Cosmos3-Super",
+    "MAGI-1_4.5B_PPT",
+    "MAGI-1_4.5B",
+    "VLIPP_newcase",
+    "PhyCo_newcase",
+    "Ours"
+  ]
+}
