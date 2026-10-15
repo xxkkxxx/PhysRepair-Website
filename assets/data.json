@@ -575,7 +575,8 @@
           "fps": 24.0
         }
       },
-      "poster": "assets/posters/avideo/minmaxh3.webp"
+      "poster": "assets/posters/avideo/minmaxh3.webp",
+      "hidden": true
     },
     {
       "id": "wind_fan_sw08_cotton_sleeves_s01",
@@ -1458,7 +1459,8 @@
           "fps": 24.0
         }
       },
-      "causal": false
+      "causal": false,
+      "hidden": true
     },
     {
       "id": "4video",

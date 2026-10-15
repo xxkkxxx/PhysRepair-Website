@@ -2,8 +2,8 @@ PhysRepair — GitHub Pages 静态网站源码（2026-10-15 最新版）
 
 这是当前网页修改后的完整版本。无需 Node.js、构建工具、数据库或私有预览平台。
 首页是根目录 index.html；视频、图片、论文 PDF 和案例数据都在 assets/。
-已包含本轮修改：Pipline 首字母大写，作者与单位更新，最新三组消融图，
-Goalkeeper save 首页大对比，16 个展示 case，扳手 case 第 7 位，
+已包含本轮修改：Pipline 首字母大写，作者与单位更新，最新 Pipeline 图、论文 PDF 与三组消融图，
+Goalkeeper save 首页大对比，15 个展示 case，扳手 case 暂时隐藏且保留素材，主球碰撞 case 第 3 位，
 指定 case 隐藏、PPT 版本优先和消融中间结果补齐。
 
 上传到 GitHub
