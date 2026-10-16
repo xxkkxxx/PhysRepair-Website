@@ -641,14 +641,14 @@
           "fps": 24.0
         },
         "VLIPP_newcase": {
-          "label": "VLIPP · motion plan",
+          "label": "VLIPP",
           "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/VLIPP_newcase.mp4",
           "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/VLIPP_newcase.webp",
           "duration": 3.0625,
           "fps": 16.0
         },
         "PhyCo_newcase": {
-          "label": "PhyCo · alternate VAE",
+          "label": "PhyCo",
           "src": "assets/videos/wind_fan_sw08_cotton_sleeves_s01/PhyCo_newcase.mp4",
           "poster": "assets/posters/wind_fan_sw08_cotton_sleeves_s01/PhyCo_newcase.webp",
           "duration": 4.875,
@@ -727,14 +727,14 @@
           "fps": 24.0
         },
         "VLIPP_newcase": {
-          "label": "VLIPP · motion plan",
+          "label": "VLIPP",
           "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/VLIPP_newcase.mp4",
           "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/VLIPP_newcase.webp",
           "duration": 3.0625,
           "fps": 16.0
         },
         "PhyCo_newcase": {
-          "label": "PhyCo · alternate VAE",
+          "label": "PhyCo",
           "src": "assets/videos/wind_fan_sw11_simple_three_materials_s02/PhyCo_newcase.mp4",
           "poster": "assets/posters/wind_fan_sw11_simple_three_materials_s02/PhyCo_newcase.webp",
           "duration": 4.875,
@@ -813,14 +813,14 @@
           "fps": 24.0
         },
         "VLIPP_newcase": {
-          "label": "VLIPP · motion plan",
+          "label": "VLIPP",
           "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/VLIPP_newcase.mp4",
           "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/VLIPP_newcase.webp",
           "duration": 3.0625,
           "fps": 16.0
         },
         "PhyCo_newcase": {
-          "label": "PhyCo · alternate VAE",
+          "label": "PhyCo",
           "src": "assets/videos/wind_fan_w09_attic_single_corner_s01/PhyCo_newcase.mp4",
           "poster": "assets/posters/wind_fan_w09_attic_single_corner_s01/PhyCo_newcase.webp",
           "duration": 4.875,
